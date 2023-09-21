@@ -1,4 +1,5 @@
-# quizzes_app
+# quizzes_app 
+## (this project depend on backend PHP and MySql)
 
 A new Flutter project.
 
